@@ -1,5 +1,5 @@
 ## 📄 Documentation
-- [📘 Final Presentation PDF](doc/[FPGA 이용한 실시간 동적 표적 추적 및 LFSR 기반 보안 영상 통신 시스템 구현.pdf)
+- [📘 Final Presentation PDF](doc/FPGA_VGA_Target_Tracking_LFSR_Secure_Video.pdf)
 
 # FPGA 이용한 실시간 동적 표적 추적 및 LFSR 기반 보안 영상 통신 시스템 구현
 
