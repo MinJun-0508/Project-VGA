@@ -20,8 +20,8 @@
 
 ### 1. 전체 블록 다이어그램
 
-<img width="2014" height="750" alt="image" src="https://github.com/user-attachments/assets/2fa8cf8b-e0e4-4c13-bfeb-a5185adc818f" />
-<img width="670" height="524" alt="image" src="https://github.com/user-attachments/assets/275b4707-b793-4009-b039-485b68effe20" />
+<img width="1726" height="489" alt="image" src="https://github.com/user-attachments/assets/fac9f275-d6d1-4cf4-b9ff-876b1411a566" />
+
 
 ### 2. 주요 모듈
 
